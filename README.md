@@ -14,7 +14,7 @@
 
 Acredito que a capacidade de aprender e se adaptar rapidamente é essencial para o sucesso na área de tecnologia!
 
-Para aprender novas tecnologias de mercado, utilizo duas das minhas principais características, o esforço e a resiliencia. :)
+Sou apaixonado por programação, e acredito que através dela, eu possa mudar a vida das pessoas! :)
 
 
 
