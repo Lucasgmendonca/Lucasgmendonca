@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá! Eu sou o Lucas Garcia 🖐️
 
-<!--
-**Lucasgmendonca/Lucasgmendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucasgarciam)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-garcia-281819181/)
 
-Here are some ideas to get you started:
+## Tecnologias que tenho domínio/conhecimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</div><br/>
+
+Acredito que a capacidade de aprender e se adaptar rapidamente é essencial para o sucesso na área de tecnologia!
+
+Para aprender novas tecnologias de mercado, utilizo duas das minhas principais características, o esforço e a resiliencia. :)
+
+
+
+
+
