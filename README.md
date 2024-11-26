@@ -1,9 +1,9 @@
-## Olá! Eu sou o Lucas Garcia 🖐️
+## Hello! I'm Lucas Garcia 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucasgarciam)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-garcia-281819181/)
 
-## Tecnologias que tenho domínio/conhecimento
+## Technologies I am proficient in / familiar with
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -21,9 +21,9 @@
   
 </div><br/>
 
-Acredito que a capacidade de aprender e se adaptar rapidamente é essencial para o sucesso na área de tecnologia!
+I believe that the ability to learn and adapt quickly is essential for success in the tech industry!
 
-Sou apaixonado por programação, e acredito que através dela, eu possa mudar a vida das pessoas! :)
+I'm passionate about programming and truly believe it has the power to change people's lives! :)
 
 
 
