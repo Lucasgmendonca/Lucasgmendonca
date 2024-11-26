@@ -1,3 +1,5 @@
+[Não fala inglês? Clique aqui](https://github.com/Lucasgmendonca/Lucasgmendonca/blob/main/README-pt.md)
+
 ## Hello! I'm Lucas Garcia 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucasgarciam)
